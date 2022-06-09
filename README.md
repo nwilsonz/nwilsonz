@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently working on a Sorting Visualizer project!
+- 🌱 I’m currently an intern with the Information Technology department at the Air Line Pilots Association (ALPA).
 
 - 👨‍💻 All of my projects are available here on **Github**
 
