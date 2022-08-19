@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently an intern with the Information Technology department at the Air Line Pilots Association (ALPA).
+- 🌱 I just finished a summer internship with the Information Technology department at the Air Line Pilots Association (ALPA).
 
 - 👨‍💻 All of my projects are available here on **Github**
 
