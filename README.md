@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I just graduated with a bachelor's degree in Computer Science with a minor in Spanish.
+- 🌱 I graduated with a bachelor's degree in Computer Science with a minor in Spanish.
 
 - 👨‍💻 All of my projects are available here on **Github**
 
