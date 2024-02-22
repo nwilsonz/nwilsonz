@@ -1,20 +1,20 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hey! I'm Nick <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hey! I'm Nick </h1>
 <h3 align="center">I'm a Computer Science graduate of the University of South Carolina Honors College.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I graduated with a bachelor's degree in Computer Science with a minor in Spanish.
+- I graduated with a bachelor's degree in Computer Science with a minor in Spanish.
 
-- 👨‍💻 All of my projects are available here on **Github**
+- All of my projects are available here on **Github**
 
-- 📫 You can contact me at **nickbw.67@gmail.com**
+- You can contact me at **nickbw.67@gmail.com**
 
-- ⚡ I enjoy learning new things, playing chess and video games, and the Spanish language and culture.
+- I enjoy learning new things, playing chess and video games, and the Spanish language and culture.
   
-- ⚡ I also love watching films, tv shows, and Japanese animation.
+- I also love watching films, tv shows, and Japanese animation.
 
 ## Languages and Tools:
 
